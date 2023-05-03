@@ -1,0 +1,1 @@
+// Create a class representing a shopping cart with methods to add, remove, and checkout items. (Intermediate)
